@@ -18,7 +18,6 @@ This project lets you track your vehicle's location on Google Maps using an Ardu
 1. **Connect the Components:**
    - Connect the GPS Module to the Arduino using UART (TX to RX, RX to TX).
    - Connect the ESP8266 Wi-Fi Module to the Arduino.
-   - Optionally, connect a 16x2 LCD to the Arduino for status updates.
 
 2. **Configure the Wi-Fi Module:**
    - In the code, update the Wi-Fi SSID and password to match your Wi-Fi network.
