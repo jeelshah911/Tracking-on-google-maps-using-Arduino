@@ -28,6 +28,8 @@ This project lets you track your vehicle's location on Google Maps using an Ardu
    - Enter this IP address in your web browser.
    - The webpage will display a link to Google Maps with your vehicle's location. Click the link to view your vehicle's position on the map.
 
+![alt text](https://github.com/jeelshah911/Tracking-on-google-maps-using-Arduino/blob/main/setup.png)
+
 ## Running the System
 1. Power up the Arduino and all connected modules.
 2. Refresh the webpage on your browser to get the latest location coordinates.
